@@ -1,0 +1,12 @@
+{
+    "name": "simple-cl-parser",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {},
+    "author": {
+        "name": "Caleb Myers",
+        "email": "cm346613@gmail.com",
+      }
+}
